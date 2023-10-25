@@ -5,7 +5,6 @@ Where I have automated the Ebay website with some test cases. </h3>
 <br>
 <h4>Test cases are:- </h4>
 <i><h5>For scenario 1</h5></i>
-<br>
 <h5>
 • Go to www.ebay.com
 • Navigate to Search by category > Electronics > Cell Phones & accessories.
@@ -16,8 +15,9 @@ Where I have automated the Ebay website with some test cases. </h3>
 • Add 3 filters - screen size, Price and Item location appearing in the pop-up & click apply.
 • Verify that the filter tags are applied.
 </h5>
+
+
 <i><h5>For scenario 2</h5></i>
-<br>
 • Go to www.ebay.com
 • Type any search string in the search bar. For example: MacBook.
 • Change the Search category. For example: Computers/Tablets & Networking and click Search.
