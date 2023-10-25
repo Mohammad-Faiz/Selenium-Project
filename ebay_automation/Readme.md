@@ -1,5 +1,5 @@
 # Selenium-Project
-<h3>I have automated the Ebay website with some test cases by using Selenium with python. </h3>
+<h4>I have automated the Ebay website with some test cases by using Selenium with python. </h4>
 <br>
 <h4>Test cases are:- </h4>
 <i><h5>For scenario 1</h5></i>
