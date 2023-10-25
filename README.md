@@ -1,4 +1,4 @@
 # Selenium-Project
-This repo includes all the selenium projects
+This repo includes selenium projects
 <br>
 Author - Mohammad Faiz
