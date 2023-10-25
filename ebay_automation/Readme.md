@@ -1,5 +1,5 @@
 # Selenium-Project
-<h3>This repo includes selenium project.
+<h3>This repo includes selenium project with python.
 <br>
 Where I have automated the Ebay website with some test cases. </h3>
 <br>
